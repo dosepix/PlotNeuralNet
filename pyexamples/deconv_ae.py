@@ -1,4 +1,4 @@
-
+#!/usr/bin/env python
 import sys
 sys.path.append('../')
 from pycore.tikzeng import *
@@ -42,3 +42,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
